@@ -2,7 +2,7 @@
 
 **Przedmiot:** Uczenie głębokie do rozpoznawania obiektów  
 **Zajęcia nr / temat:** 4 — CNN: splotowe sieci dla obrazów  
-**Autor / grupa:** Oskar Pietrzak / nie podano  
+**Autor / grupa:** Oskar Pietrzak / Gl.03  
 **Data:** 09.11.2026
 
 ## 1. Cel ćwiczenia
@@ -11,7 +11,7 @@ Celem było zbudowanie prostej sieci splotowej CNN i porównanie jej z siecią M
 
 ## 2. Metoda i implementacja
 
-Wykorzystano Python 3.12, PyTorch 2.15.0+cpu, torchvision 0.29.2+cpu i matplotlib. Kod oraz zapisane wyniki znajdują się w [lab4_cnn_mlp.ipynb](lab4_cnn_mlp.ipynb).
+Wykorzystano Python 3.12, PyTorch 2.15.0+cpu, torchvision 0.29.2+cpu i matplotlib. Kod oraz zapisane wyniki znajdują się w [lab4.ipynb](lab4.ipynb).
 
 CIFAR-10 zawiera 60 000 kolorowych obrazów 32 × 32 piksele, należących do 10 klas. Oficjalne 50 000 obrazów treningowych podzielono losowo na trening (45 000) i walidację (5 000), z ziarnem 42. Oficjalne 10 000 obrazów testowych zachowano do końcowej oceny. Oba modele otrzymały identyczny podział i kolejność minibatchy.
 
