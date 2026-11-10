@@ -1,0 +1,3 @@
+Model,Parametry,Accuracy_test_pct,Czas_s,Wybrana_epoka,Accuracy_val_pct
+MLP,1707274,53.23,79.44898691900005,10,53.459999999999994
+CNN,136874,69.26,105.96197345799999,10,70.28
