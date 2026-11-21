@@ -2,8 +2,8 @@
 
 **Przedmiot:** Uczenie głębokie do rozpoznawania obiektów  
 **Zajęcia nr / temat:** 5 — Warstwy splotowe — operacja, parametry, interpretacja  
-**Autor / grupa:** Oskar Pietrzak / …  
-**Data:** 20.11.2026
+**Autor / grupa:** Oskar Pietrzak / Gl.03  
+**Data:** 18.11.2026
 
 ## 1. Cel ćwiczenia
 
@@ -68,16 +68,3 @@ Po filtracji każdy obraz zachował rozmiar 224 × 224. Na wszystkich panelach p
 ## 5. Wnioski
 
 Wzór poprawnie przewidział wymiary wyjścia we wszystkich sześciu konfiguracjach. Zmiana kroku wpływała na gęstość próbkowania, dopełnienie na skrajne pozycje odpowiedzi, a dylatacja na obszar obrazu objęty jądrem. Pierwsza warstwa ResNet-18 uwydatniła różne kierunki krawędzi i lokalne detale. Przy tym samym rozmiarze okna większe wagi środka w Gaussian 5×5 pozwoliły lepiej zachować detale koła niż równomierne wagi Box 5×5.
-
----
-
-## Kryteria oceny (rubryka)
-
-| Element | Waga |
-|---|---:|
-| Poprawność implementacji | 40% |
-| Wyniki i ich interpretacja | 30% |
-| Czytelność kodu (PEP8, komentarze) | 20% |
-| Wnioski | 10% |
-
-Próg zaliczenia sprawozdań (O1) wynosi 90%. Oddanie do tygodnia po zajęciach.
