@@ -2,8 +2,8 @@
 
 **Przedmiot:** Uczenie głębokie do rozpoznawania obiektów  
 **Zajęcia nr / temat:** 6 — Warstwa łącząca (pooling) i pełna CNN  
-**Autor / grupa:** Oskar Pietrzak / do uzupełnienia  
-**Data:** 25.11.2026
+**Autor / grupa:** Oskar Pietrzak / Gl.03
+**Data:** 24.11.2026
 
 ## 1. Cel ćwiczenia
 
